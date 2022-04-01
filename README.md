@@ -1,7 +1,7 @@
 # Guess My Number: a Simple Magic Trick Elevated through a Python Script
 Codecademy's CS101 Final Project
 
-![Image]https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif
+![Magic Gif](https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif)
 
 ## Why Program a Magic Trick?
 My grandpa was a successful astronomer and a huge math buff. He shared this 'magic trick' with my brother and me when we were children. We immediately loved it because it was easy to understand and fun to perform on our own. I decided to program this trick as part of my CS101 final project of the Codecademy Career Path for the exact same reason. As I started to code, I quickly realized that Python would allow me to make the trick even more interesting because the player can pick their own numbers for the calculation, leading to a different end result every time, thus adding to the 'magic' :).
