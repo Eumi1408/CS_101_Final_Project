@@ -1,4 +1,4 @@
-#Number_Guessing_Magic_Trick
+## Number Guessing Magic Trick
 
 ## Global Variables
 final_number = 0
