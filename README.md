@@ -11,7 +11,7 @@ In the background, the program performed the same calculations starting from the
 
 In the end, the player is asked if the guess was correct. A 'yes' is followed by an evil ASCII art alien whereas a 'no' returns a message that asks the player to try again and use a calculator.
 
-Here is the link to my code's GitHub: https://github.com/Eumi1408/CS_101_Final_Project.git
+Here is the link to my code's GitHub repository: https://github.com/Eumi1408/CS_101_Final_Project.git
 
 I know this script may look like a pathetic attempt to experienced developers, but I am very excited that I programmed something coherent that works! I am looking forward to learning more in Codecademy's Computer Science Career Path.
 
